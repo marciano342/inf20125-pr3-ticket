@@ -1,0 +1,4 @@
+code/entradas
+tests/*.out
+tests/*.err
+
